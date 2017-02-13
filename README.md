@@ -2,6 +2,7 @@
 环境配置
 =====
 1. VS2015 安装
+2. Microsoft SQL Express 2012 Server / Management Studio
 2. Git 安装
 3. Git 客户端安装
 
@@ -51,4 +52,7 @@ C#知识要点
 1. System.Exception
 2. try...catch...finally
 
-
+# Asp.net
+1. 数据绑定
+2. ViewState
+3. Session（我们尽量不使用Session，以应对将来的多节点部署处理）
