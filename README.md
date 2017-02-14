@@ -2,7 +2,7 @@
 环境配置
 =====
 1. VS2015 安装
-2. Microsoft SQL Express 2012 Server / Management Studio
+2. Microsoft SQL Enterprise Edition 2012 Server / Management Studio
 2. Git 安装
 3. Git 客户端安装
 
