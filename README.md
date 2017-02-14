@@ -54,5 +54,6 @@ C#知识要点
 
 # Asp.net
 1. 数据绑定
+2. 数据验证
 2. ViewState
-3. Session（我们尽量不使用Session，以应对将来的多节点部署处理）
+3. Session
